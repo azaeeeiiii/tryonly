@@ -4,6 +4,7 @@ public class Ace {
         System.out.println("I'am 19 years old.");
         System.out.println("Ako ay maganda");
         System.out.println("I love programming.");
+        System.out.println("I'm so pretty.");
     }
     
 }
