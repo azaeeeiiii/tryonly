@@ -51,7 +51,7 @@ ProgrammingPersonality.java
 text here
 
 ## Features
-1. **Register Students** Inputs and store student information such as name, SR-Code and personality type. 
+1. **Register Students** Add student information such as name, SR-Code and personality type. 
 2. **View Registered Student/s** Display all the registered students along with their details. 
 3. **Update Student Information** Modify a student's name, SR-Code ???
 4. **Delete Student/s** Removes a selected student from the system. 
@@ -84,6 +84,16 @@ text here
     <th> Name </th>
     <th> Role </th>
 </tr>
+<tr>
+    <td> <img src="OOPalicious pictures\acepic.jpg" width="100" height="100"> </td>
+    <td><strong>Ace Angela P. Banaag</strong> <br/>
+    <a href="https://github.com/azaeeeiiii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="azaeeeiiii's Github">
+      </a>
+    </td>
+    <td>sample</td>
+</tr>
+
 </table>
 
 
