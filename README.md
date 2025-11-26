@@ -77,7 +77,7 @@ text here
 
 
 ## Contributors
-<table>
+<table style = "width:100%">
 <tr>
 <tr>
     <th> &nbsp; </th>
