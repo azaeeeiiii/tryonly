@@ -11,7 +11,7 @@
 </p>
 
 ## 📌 Overview
-02gether is a console-based Java application designed to help users/students from CS-2102 to register, manage, and group student profiles using an interactive personality-based system. 
+02gether is a console-based Java application designed to help users/students from CS-2102 to register, manage, and group students using an interactive personality-based system. 
 
 ## Users can:
 🖋️ Register students  
@@ -62,7 +62,7 @@ text here
     <th> Role </th>
 </tr>
 <tr>
-    <td> <img src="OOPalicious pictures\nea alt.jpg" width="100" height="100"> </td>
+    <td> <img src="OOPalicious pictures\neapic.jpg" width="100" height="100"> </td>
     <td><strong>Aniñon, Shanea May B.</strong> <br/>
       <a href="https://github.com/shaneamay" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Shanea's Github">
@@ -104,5 +104,5 @@ text here
 We would like to thank our following sponsor FOR THIS PROJECT MAX MANGOOOO!!!
 
 ## DISCLAIMER
-
+rated spg
 
