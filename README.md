@@ -1,6 +1,6 @@
 <h1 align="center">*:・ﾟ✧ O2gether ✧ *:・ﾟ</h1>
 
-<h3 align="center">Your console-based interactive AI eneme.</h3>
+<h3 align="center">Your interactive console tool for student management.</h3>
 
 <p align="center">
   <strong>CS 2102</strong><br/>
@@ -13,7 +13,7 @@
 ## 📌 Overview
 02gether is a console-based Java application designed to help users register, manage, and group student profiles using an interactive personality-based? system. 
 
-**Users can:**
+## Users can:
 🖋️ Register students  
 📔 View registered students  
 ❌ Delete registered students  
