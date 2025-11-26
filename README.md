@@ -13,7 +13,7 @@
 ## 📌 Overview
 02gether is a console-based Java application designed to help users/students from CS-2102 to register, manage, and group students using an interactive personality-based system. 
 
-## 🔍 Users can:
+## Users can:
 🖋️ Register students  
 📔 View registered students  
 ❌ Delete registered students  
