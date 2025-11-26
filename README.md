@@ -51,12 +51,12 @@ ProgrammingPersonality.java
 text here
 
 ## Features
-1. **Register Students** Add student information such as name, SR-Code and personality type. 
-2. **View Registered Student/s** Display all the registered students along with their details. 
-3. **Update Student Information** Modify a student's name, SR-Code ???
-4. **Delete Student/s** Removes a selected student from the system. 
-5. **Form Groups** Organizes students into groups according to??
-6. **Exit Program** Ends the current console session.
+1. **Register Students** - Add student information such as name, SR-Code and personality type. 
+2. **View Registered Student/s** - Display all the registered students along with their details. 
+3. **Update Student Information** - Modify a student's name, SR-Code ???
+4. **Delete Student/s** - Removes a selected student from the system. 
+5. **Form Groups** - Organizes students into groups according to??
+6. **Exit Program** - Ends the current console session.
 
 ## Object-oriented Principles
 
@@ -85,15 +85,41 @@ text here
     <th> Role </th>
 </tr>
 <tr>
-    <td> <img src="OOPalicious pictures\acepic.jpg" width="100" height="100"> </td>
-    <td><strong>Ace Angela P. Banaag</strong> <br/>
-    <a href="https://github.com/azaeeeiiii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="azaeeeiiii's Github">
+    <td> <img src="OOPalicious pictures\nea alt.jpg" width="100" height="100> </td>
+    <td><strong>Aniñon, Shanea May B.</strong><br/>
+      <a href="https://github.com/shaneamay" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Nea's Github">
       </a>
     </td>
     <td>sample</td>
 </tr>
-
+<tr>
+    <td> <img src="OOPalicious pictures\acepic.jpg" width="100" height="100"> </td>
+    <td><strong>Banaag, Ace Angela P.</strong> <br/>
+      <a href="https://github.com/azaeeeiiii" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Ace's Github">
+      </a>
+    </td>
+    <td>sample</td>
+</tr>
+<tr>
+    <td> <img src="OOPalicious pictures\jarenpic.jpg" width="100" height="100"> </td>
+    <td><strong>Bituin, Jan Lawrence L.</strong> <br/>
+    <a href="https://github.com/Jarennn15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Jaren's Github">
+      </a>
+    </td>
+    <td>sample</td>
+</tr>
+<tr>
+    <td> <img src="OOPalicious pictures\danepic.jpg" width="100" height="100"> </td>
+    <td><strong>Cura, Dane Mercy J.</strong> <br/>
+      <a href="https://github.com/deynblip" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Dane's Github">
+      </a>
+    </td>
+    <td>sample</td>
+</tr>
 </table>
 
 
