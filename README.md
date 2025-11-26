@@ -50,8 +50,6 @@ text here
 
 ## 🖥️ Example Output
 
-## Snippet
-
 
 ## 👥 Contributors
 <table style = "width:100%">
