@@ -85,10 +85,10 @@ text here
     <th> Role </th>
 </tr>
 <tr>
-    <td> <img src="OOPalicious pictures\nea alt.jpg" width="100" height="100> </td>
-    <td><strong>Aniñon, Shanea May B.</strong><br/>
+    <td> <img src="OOPalicious pictures\acepic.jpg" width="100" height="100"> </td>
+    <td><strong>Aniñon, Shanea May B.</strong> <br/>
       <a href="https://github.com/shaneamay" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Nea's Github">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Shanea's Github">
       </a>
     </td>
     <td>sample</td>
