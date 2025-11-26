@@ -1,4 +1,4 @@
-<h1 align="center">O2gether</h1>
+<h1 align="center">*:・ﾟ✧ O2gether ✧ *:・ﾟ</h1>
 
 <h3 align="center">Your console-based interactive AI eneme.</h3>
 
@@ -10,15 +10,15 @@
   Cura, Dane Mercy J.
 </p>
 
-## Overview
-o2gether is a blahblah blah
+## 📌 Overview
+02gether is a console-based Java application designed to help users register, manage, and group student profiles using an interactive personality-based? system. 
 
 **Users can:**
-- Register students
-- View registered students
-- Delete registered students
-- Update student information
-- Form groups
+🖋️ Register students  
+📔 View registered students  
+❌ Delete registered students  
+✏️ Update student information  
+👥 Form groups based on personalities 
 
 ## Project Structure
 Create Using VS Code
@@ -51,36 +51,42 @@ ProgrammingPersonality.java
 text here
 
 ## Features
-**Register Students**. Function
-** View Registered**
-**Update**
-**Delete**
-**Form**
+1. **Register Students** Inputs and store student information such as name, SR-Code and personality type. 
+2. **View Registered Student/s** Display all the registered students along with their details. 
+3. **Update Student Information** Modify a student's name, SR-Code ???
+4. **Delete Student/s** Removes a selected student from the system. 
+5. **Form Groups** Organizes students into groups according to??
+6. **Exit Program** Ends the current console session.
 
 ## Object-oriented Principles
 
 ### Encapsulation
 text here
+
 ### Abstraction
 text here
+
 ### Inheritance
 text here
+
 ### Polymorphism
 text here
 
 ## Example Output
 ## Snippet
 
+
 ## Contributors
-|      | Name | GitHub | Role |
-|------|------|--------|------|
-|      | **Shanea May B. Aninon** | [shaneamay](https://github.com/) | Role |
-|  <img src="./static/howl icon.jpg" width="80"> <br>   | **Ace Angela P. Banaag** | [azaeeeiiii](https://github.com/) | Role |
-|      | **Jan Lawrence L. Bituin** | [jarenn15](https://github.com/) | Role |
-|     | **Dane Mercy J. Cura** | [deynblip](https://github.com/) | Role |
+<table>
+<tr>
+<tr>
+    <th> &nbsp; </th>
+    <th> Name </th>
+    <th> Role </th>
+</tr>
+</table>
+
 
 ## Acknowledgement
-We blahblahblah
+We would like to thank our following sponsor FOR THIS PROJECT MAX MANGOOOO!!!
 
-## Disclaimer
-Text
