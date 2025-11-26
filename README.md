@@ -11,7 +11,7 @@
 </p>
 
 ## 📌 Overview
-02gether is a console-based Java application designed to help users register, manage, and group student profiles using an interactive personality-based? system. 
+02gether is a console-based Java application designed to help users/students from CS-2102 to register, manage, and group student profiles using an interactive personality-based system. 
 
 ## Users can:
 🖋️ Register students  
@@ -20,63 +20,40 @@
 ✏️ Update student information  
 👥 Form groups based on personalities 
 
-## Project Structure
-Create Using VS Code
+## 🗂️ Project Structure
 
-Open your project folder in VS Code
 
-Right-click the left sidebar → New Folder
-
-Name: src
-
-Right-click src → New Folder
-
-Name: diaryapp
-
-Right-click diaryapp → New File
-
-Create:
-
-Main.java
-Student.java
-StudentHandler.java
-Personality.java
-AbstractPersonality.java
-SciencePersonality.java
-LiteraturePersonality.java
-CreativePersonality.java
-ProgrammingPersonality.java
-
-## How to Run the Program
+## ▶️ How to Run the Program
 text here
 
-## Features
-1. **Register Students** - Add student information such as name, SR-Code and personality type. 
-2. **View Registered Student/s** - Display all the registered students along with their details. 
-3. **Update Student Information** - Modify a student's name, SR-Code ???
-4. **Delete Student/s** - Removes a selected student from the system. 
-5. **Form Groups** - Organizes students into groups according to??
-6. **Exit Program** - Ends the current console session.
+## ✨ Features
+1. **Register Students**. Add student information such as name, SR-Code and personality type. 
+2. **View Registered Student/s**.  Display all the registered students along with their details. 
+3. **Update Student Information**. Modify a student's name, SR-Code ???
+4. **Delete Student/s**. Removes a selected student from the system. 
+5. **Form Groups**. Organizes students into groups according to??
+6. **Exit Program**. Ends the current console session.
 
 ## Object-oriented Principles
 
-### Encapsulation
+### |Encapsulation
 text here
 
-### Abstraction
+### |Abstraction
 text here
 
-### Inheritance
+### |Inheritance
 text here
 
-### Polymorphism
+### |Polymorphism
 text here
 
-## Example Output
+## 🖥️ Example Output
+
 ## Snippet
 
 
-## Contributors
+## 👥 Contributors
 <table style = "width:100%">
 <tr>
 <tr>
@@ -125,4 +102,7 @@ text here
 
 ## Acknowledgement
 We would like to thank our following sponsor FOR THIS PROJECT MAX MANGOOOO!!!
+
+## DISCLAIMER
+
 
