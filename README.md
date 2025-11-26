@@ -28,24 +28,29 @@ text here
 
 ## ✨ Features
 1. **Register Students**. Add student information such as name, SR-Code and personality type. 
+
 2. **View Registered Student/s**.  Display all the registered students along with their details. 
+
 3. **Update Student Information**. Modify a student's name, SR-Code ???
+
 4. **Delete Student/s**. Removes a selected student from the system. 
+
 5. **Form Groups**. Organizes students into groups according to??
+
 6. **Exit Program**. Ends the current console session.
 
-## Object-oriented Principles
+## 🧠 Object-oriented Principles
 
-### |Encapsulation
+### | Encapsulation
 text here
 
-### |Abstraction
+### | Abstraction
 text here
 
-### |Inheritance
+### | Inheritance
 text here
 
-### |Polymorphism
+### | Polymorphism
 text here
 
 ## 🖥️ Example Output
@@ -98,9 +103,9 @@ text here
 </table>
 
 
-## Acknowledgement
+## 💡 Acknowledgement
 We would like to thank our following sponsor FOR THIS PROJECT MAX MANGOOOO!!!
 
-## DISCLAIMER
+## ❕DISCLAIMER
 rated spg
 
