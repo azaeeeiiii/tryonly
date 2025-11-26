@@ -1,11 +1,13 @@
+<h1 align="center">O2gether</h1>
+
+<h3 align="center">Your console-based interactive AI eneme.</h3>
+
 <p align="center">
-<strong style="font-size: 50px;"> O2gether </strong><br>
-An interactive console-based AI  eneme. <br>
-<strong>CS 2102</strong><br>
-Aninon, Shanea May B.<br>
-Banaag, Ace Angela P.<br>
-Bituin, Jan Lawrence L.<br>
-Cura, Dane Mercy J.
+  <strong>CS 2102</strong><br/>
+  Aninon, Shanea May B.<br/>
+  Banaag, Ace Angela P.<br/>
+  Bituin, Jan Lawrence L.<br/>
+  Cura, Dane Mercy J.
 </p>
 
 ## Overview
@@ -69,7 +71,7 @@ text here
 ## Example Output
 ## Snippet
 
-## Contributors  (baguhin pa to if mala html ang code na need)
+## Contributors
 |      | Name | GitHub | Role |
 |------|------|--------|------|
 |      | **Shanea May B. Aninon** | [shaneamay](https://github.com/) | Role |
@@ -80,5 +82,5 @@ text here
 ## Acknowledgement
 We blahblahblah
 
-# Disclaimer
+## Disclaimer
 Text
