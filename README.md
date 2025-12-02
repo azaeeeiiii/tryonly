@@ -21,7 +21,24 @@
 👥 Form groups based on personalities 
 
 ## 🗂️ Project Structure
-
+```
+📂 src/
+└── 📂 02gether/
+├── 📂 data/
+│ ├── GroupBuilder.java
+│ ├── PreselectedStudent.java
+│ ├── StudentInputHandler.java
+│ ├── StudentManager.java
+│ └── StudentRegistry.java  
+├── 📂 personality/
+│ ├── AbstractPersonality.java
+│ ├── CreativeaPersonality.java
+│ ├── LiteraturePersonality.java
+│ ├── ProgrammingPersonality.java
+│ ├── SciencePersonality.java
+│ └── Student.java
+└── ☕ Main.java
+```
 
 ## ▶️ How to Run the Program
 text here
